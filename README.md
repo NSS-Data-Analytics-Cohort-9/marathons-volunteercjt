@@ -17,6 +17,7 @@
 4. Quartiles help group ordered data into buckets – the first quartile separates the lowest 25 percent of the data from the top 75 percent, the second quartile (same as the median) divides the dataset in half, and the third quartile separates the lowest 75 percent from the top 25 percent. Find the values that define the first, second, and third quartiles for each half-marathon.
 
 5. Is there a year in which runners seem slower or faster? Formulate a hypothesis for any apparent differences.
+2017 seems to have the slowest times.  This could be due to the weather.  The high was 91 degrees Fahrenheit at the 2017 Rock N' Roll Marathon.
 
 6. Scott Wietecha has won the Rock and Roll Marathon for 7 years in a row. Compute and display the difference between Wietecha’s time and the next fastest runner for each year.
 
