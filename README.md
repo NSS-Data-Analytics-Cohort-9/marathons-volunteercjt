@@ -19,9 +19,11 @@
 5. Is there a year in which runners seem slower or faster? Formulate a hypothesis for any apparent differences.
 2017 seems to have the slowest times.  This could be due to the weather.  The high was 91 degrees Fahrenheit at the 2017 Rock N' Roll Marathon.
 
-6. Scott Wietecha has won the Rock and Roll Marathon for 7 years in a row. Compute and display the difference between Wietecha’s time and the next fastest runner for each year.
+	6. Scott Wietecha has won the Rock and Roll Marathon for 7 years in a row. Compute and display the difference between Wietecha’s time and the next fastest runner for each year.
 
 #### BONUS: Find the top three marathon runners for 2016, 2017, 2018, and 2019. Remove any duplicates across years (i.e., Scott Wietecha should only be in the list once). How many unique runners finished at one of the top 3 spots in the past 4 races? In how many of the 4 years did each top 3 runner finish? How has each runner’s time changed from year to year?
+Scott is the only runner to place in the top 3 in multiple years.
+
 
 ##### Create a brief (5 minute) presentation to communicate your findings from this exercise.
 
