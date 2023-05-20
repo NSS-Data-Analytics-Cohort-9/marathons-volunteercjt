@@ -1,4 +1,4 @@
-## Rock and Roll Marathons Bonus Questions
+	## Rock and Roll Marathons Bonus Questions
 
 In these bonus questions, you'll get to explore some additional features of Excel.
 
@@ -19,7 +19,7 @@ f. At this point you could scroll through the table to find duplicates, but with
 5. Let's make a visualization to see the overall distribution of finish times during the 2016 marathon.  
 a. Start by creating a new column which contains the finish time of each runner in minutes. Hint: This can be done using the HOUR, MINUTE, AND SECOND functions.  
 b. Now, using this column, create a [histogram](https://www.mathsisfun.com/data/histograms.html). You can create such a chart by going to the Insert tab, going to the charts section and choosing histogram under the "Insert Statistic Chart" button. (See [this page](https://support.microsoft.com/en-us/topic/create-a-histogram-in-excel-a15d4de8-a432-72cd-9434-1a7f3e88698e) for more information).  
-c. What do you notice from this histogram?  
+c. What do you notice from this histogram?  It is a bell curve.  Most of the runners finish in the middle with fewer outliers on either side of the curve.
 
  6. You've seen from the previous calculations that marathon times were slower for 2017 compared to 2016, but now let's see if the times of individual runners were slower.   
  a. Make a new sheet, "Year_to_Year_Comparison".   
